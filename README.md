@@ -11,15 +11,9 @@
 
 - 👨‍💻 Some of my projects are available at [eofoneta.vercel.app](eofoneta.vercel.app)
 
-- 📝 I regularly write articles based on my project [eofoneta.vercel.app/project/01](eofoneta.vercel.app/project/01)
-
-- 💬 Ask me about **Java, Typescript**
-
 - 📫 How to reach me **eofoneta@gmail.com**
 
 - 📄 Know about my experiences [eofoneta.vercel.app](eofoneta.vercel.app)
-
-- ⚡ Fun fact **I know how to sculpt 3D models in Blender.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
