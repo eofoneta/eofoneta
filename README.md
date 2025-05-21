@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Ofoneta</h1>
-<h3 align="center">A Software Engineer from Lagos Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lordmaryo&label=Profile%20views&color=0e75b6&style=flat" alt="lordmaryo" /> </p>
 
 - 🔭 I’m currently working on **Something cool**
 
-- 🌱 I’m currently learning **Rust**
-
-- 👯 I’m looking to collaborate on **Any project that would need people to contribute on.**
+- 👯 I’m looking to collaborate on **Ai integrated solutions.**
 
 - 👨‍💻 Some of my projects are available at [eofoneta.vercel.app](eofoneta.vercel.app)
 
