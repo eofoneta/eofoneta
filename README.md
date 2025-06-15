@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **Ai integrated solutions.**
 
-- 👨‍💻 Some of my projects are available at [eofoneta.vercel.app](eofoneta.vercel.app)
+- 👨‍💻 Some of my projects are available here
 
 - 📫 How to reach me **eofoneta@gmail.com**
 
