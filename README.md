@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Emmanuel Ofoneta</h1>
+<h1 align="center">I'm Emmanuel Ofoneta</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lordmaryo&label=Profile%20views&color=0e75b6&style=flat" alt="lordmaryo" /> </p>
 
@@ -9,8 +9,6 @@
 - 👨‍💻 Some of my projects are available here
 
 - 📫 How to reach me **eofoneta@gmail.com**
-
-- 📄 Know about my experiences [eofoneta.vercel.app](eofoneta.vercel.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
