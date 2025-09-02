@@ -1,1 +1,1 @@
-<h1 align="center">I'm Emmanuel Ofoneta</h1>
+<h1 align="center">Emmanuel Ofoneta</h1>
